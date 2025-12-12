@@ -1,0 +1,7 @@
+{
+  "name": "ProductLens AI",
+  "description": "An intelligent multimodal assistant that analyzes product images to provide specifications, pricing, and buying advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
